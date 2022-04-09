@@ -11,3 +11,10 @@
 .input-container form > div > input::placeholder {
   color: #ffffff;
 }
+
+@media screen and (max-width: 1300px) {
+  .input-container form > div > input{
+    font-size: 24px;
+  }
+}
+
