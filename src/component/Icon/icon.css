@@ -1,0 +1,10 @@
+.icon-container {
+  padding-bottom: 20px;
+  cursor: pointer;
+}
+.icon-container img {
+  height: 48px;
+  width: 48px;
+  background-color: #ffffff;
+  border-radius: 50%;
+}
