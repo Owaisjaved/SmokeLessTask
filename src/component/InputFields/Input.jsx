@@ -11,7 +11,6 @@ const Input = () => {
 
   //Creating ID, checking if Data is not present then it will be 1st Entry else Adding 1 to length of Data
   let ID;
-  console.log(JSON.parse(localStorage.getItem("allEntries")));
   if (JSON.parse(localStorage.getItem("allEntries")) === null) {
     ID = 1;
   } else {
