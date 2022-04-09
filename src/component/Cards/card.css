@@ -1,0 +1,24 @@
+.card-container {
+  padding: 20px;
+}
+.card-container .card {
+  background-color: #d463f0;
+  padding: 20px;
+  border-radius: 1rem;
+  margin-top: 1rem;
+  cursor: pointer;
+}
+.card-container .card .card-ice-maker {
+  font-family: "Barlow-ExtraBold";
+  font-size: 20px;
+  line-height: 30px;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+.card-container .card .card-location {
+  font-family: "Barlow-Regular";
+  font-size: 15px;
+  line-height: 20px;
+  color: #ffffff;
+}
