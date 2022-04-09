@@ -1,0 +1,13 @@
+.input-container form > div {
+  padding-bottom: 20px;
+}
+.input-container form > div > input {
+  width: 100%;
+  border: none;
+  background-color: #d463f0;
+  color: #ffffff;
+  border-bottom: 2px solid #ffffff;
+}
+.input-container form > div > input::placeholder {
+  color: #ffffff;
+}
