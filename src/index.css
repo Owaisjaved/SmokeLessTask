@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+@font-face {
+  font-family: "Barlow-Bold";
+  src: local('Barlow-Bold'),
+  url("../public/fonts/Barlow-Bold.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Barlow-Regular";
+  src: local('Barlow-Regular'),
+  url("../public/fonts/Barlow-Regular.ttf") format("truetype");
+}
+@font-face {
+  font-family: "Barlow-ExtraBold";
+  src: local('Barlow-ExtraBold'),
+  url("../public/fonts/Barlow-ExtraBold.ttf") format("truetype");
+}
+
+
+
