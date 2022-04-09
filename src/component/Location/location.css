@@ -1,0 +1,10 @@
+.location-container {
+  background-color: #d463f0;
+  padding: 20px;
+  height: 94vh;
+}
+
+.location-container .btn-position {
+  position: relative;
+  top: 50vh;
+}
